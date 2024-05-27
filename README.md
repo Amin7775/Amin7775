@@ -26,7 +26,7 @@
 ### Languages and Tools:
 
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Static Badge](https://img.shields.io/badge/Express.js-%23efefee)
+![Static Badge](https://img.shields.io/badge/Express.js-%23efefee?style=flat-square&logo=express&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%230b2439)
 ![Static Badge](https://img.shields.io/badge/React%20Router-%23f54251)
