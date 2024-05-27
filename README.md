@@ -39,20 +39,25 @@
 ---
 
 ### My Github Stats:
-<div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amin7775&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Al Amin's GitHub status" width="50%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amin7775&theme=algolia" alt="amin7775" width="50%" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=amin7775&show_icons=true&include_all_commits=true&theme=algolia" alt="Al Amin's GitHub status" width="100%" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amin7775&theme=algolia" alt="amin7775" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin7775&layout=compact&theme=algolia&hide_border=true&&langs_count=10" width="50%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin7775&layout=compact&theme=algolia&&langs_count=10" width="50%" />
 
 ---
 
