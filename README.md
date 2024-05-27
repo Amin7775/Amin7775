@@ -43,7 +43,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=amin7775&show_icons=true&include_all_commits=true&theme=algolia" alt="Al Amin's GitHub status" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=amin7775&show_icons=true&include_all_commits=true&theme=algolia" alt="Al Amin's 2024 status" width="100%" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=amin7775&theme=algolia" alt="amin7775" width="100%" />
@@ -57,7 +57,7 @@
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin7775&theme=algolia&&langs_count=10&layout=nord" width="50%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin7775&layout=nord&theme=algolia&&langs_count=10" width="50%" />
 
 
 ---
