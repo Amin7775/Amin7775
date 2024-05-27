@@ -28,7 +28,7 @@
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![express](https://img.shields.io/badge/Express.js-%23efefee?style=flat-square&logo=express&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%230b2439?style=flat-square&logo=tailwind.css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%230b2439?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -39,35 +39,29 @@
 ---
 
 ### My Github Stats:
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amin7775&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Al Amin's GitHub status" />
+<div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amin7775&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Al Amin's GitHub status" width="100%" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amin7775&theme=algolia" alt="amin7775" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amin7775&theme=algolia" alt="amin7775" width="100%" />
 </p>
+</div>
 
 ---
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin7775&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-
----
-
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/amin7775"><img alt="Check out amin7775's profile on stardev.io" src="https://stardev.io/developers/amin7775/badge/languages/locality.svg" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin7775&layout=compact&theme=algolia&hide_border=true&&langs_count=10" width="100%" />
 
 ---
 
 
-### Top Repositories
-
-
+<!--
 <a href="https://github.com/Amin7775/brandshop-client-side-with-react?tab=readme-ov-file">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amin7775&repo=brandshop-client-side-with-react&theme=algolia" />
 </a>
 <a href="https://github.com/Amin7775/House-Master-client-side">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amin7775&repo=House-Master-client-side&theme=algolia" />
 </a>
+-->
