@@ -64,7 +64,7 @@
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amin7775&theme=algolia" alt="amin7775" width="100%" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin7775&layout=compact&theme=algolia&&langs_count=10" width="100%"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin7775&layout=compact&theme=algolia&&langs_count=5" width="100%"/>
       </td>
     </tr>
   </table>
