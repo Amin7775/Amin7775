@@ -72,12 +72,16 @@
     </tr>
   </table>
 
- <div style="border: 1px solid #30363d; border-radius: 6px; display: inline-block; margin-top: 10px;">
+ <table>
+   <tr>
+     <td>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Amin7775&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true"
       alt="Amin7775 Top Languages"
     />
-  </div>
+       </td>
+    </tr>
+ </table>
 
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=Amin7775&theme=dark&no-frame=true" alt="Amin7775 Trophies" />
