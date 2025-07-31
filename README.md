@@ -1,6 +1,6 @@
 <a href="https://www.facebook.com/profile.php?id=100012309390083">
-<!-- <img src="https://i.ibb.co/0Zw8DCP/github-cover.jpg" /> -->
-<img src="https://i.ibb.co/DD4wpPVj/Cover-new.jpg" />
+<img src="https://i.ibb.co/0Zw8DCP/github-cover.jpg" />
+<!-- <img src="https://i.ibb.co/DD4wpPVj/Cover-new.jpg" /> -->
 </a>
 <br />
 <h1 align="center">
