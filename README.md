@@ -77,7 +77,7 @@
         <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amin7775&show_icons=true&locale=en" alt="Amin7775" /></p>
       </td>
     <td>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amin7775&" alt="Amin7775" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amin7775&show_icons=true&theme=radical" alt="Amin7775 GitHub stats" /></p>
     </td>
     </tr>
   
