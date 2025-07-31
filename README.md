@@ -73,7 +73,11 @@
   </table>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amin7775&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Amin7775 Top Languages" />
+     <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Amin7775&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"
+    alt="Amin7775 Top Languages"
+    width="100%"
+  />
   </p>
 
   <p>
