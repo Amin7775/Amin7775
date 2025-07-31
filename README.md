@@ -89,20 +89,3 @@
 </div>
 
 
----
-
-
-
-
----
-
-
-<!--
-<a href="https://github.com/Amin7775/brandshop-client-side-with-react?tab=readme-ov-file">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amin7775&repo=brandshop-client-side-with-react&theme=algolia" />
-</a>
-<a href="https://github.com/Amin7775/House-Master-client-side">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amin7775&repo=House-Master-client-side&theme=algolia" />
-</a>
---><h1>Hi 👋, I'm Al Amin</h1>
-
