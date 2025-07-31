@@ -74,9 +74,8 @@
 
   <p>
      <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Amin7775&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Amin7775&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="Amin7775 Top Languages"
-    width="100%"
   />
   </p>
 
