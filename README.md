@@ -61,31 +61,26 @@
 </div>
 -->
 <div align="center">
-<!--   <table>
-    <tr>
-      <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=amin7775&theme=algolia" alt="amin7775" width="100%" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin7775&layout=compact&theme=algolia&&langs_count=5" width="100%"/>
-      </td>
-    </tr>
-  </table> -->
   <table>
     <tr>
       <td>
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amin7775&show_icons=true&locale=en" alt="Amin7775" /></p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amin7775&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Amin7775 GitHub stats" />
       </td>
-    <td>
-      <p><img align="center" src="https://streak-stats.demolab.com?user=Amin7775&theme=dark&hide_border=true" alt="Amin7775 streak stats" /></p>
-    </td>
+      <td>
+        <img align="center" src="https://streak-stats.demolab.com?user=Amin7775&theme=dark&hide_border=true" alt="Amin7775 streak stats" />
+      </td>
     </tr>
-  
   </table>
-  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amin7775&show_icons=true&locale=en&layout=compact" alt="Amin7775" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amin7775" alt="Amin7775" /></a></p>
+
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amin7775&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Amin7775 Top Languages" />
+  </p>
+
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=Amin7775&theme=dark&no-frame=true" alt="Amin7775 Trophies" />
+  </p>
 </div>
+
 
 ---
 
