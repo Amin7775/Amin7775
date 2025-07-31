@@ -14,7 +14,7 @@
 - 🌱 Trying to become an expert in mern stack ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Be better on Mern Technologies.
+- 🥅 2025 Goals: Be better on Mern Technologies.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 ---
@@ -29,16 +29,19 @@
 
 ### Languages and Tools:
 
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![express](https://img.shields.io/badge/Express.js-%23efefee?style=flat-square&logo=express&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%230b2439?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-%dd2a01?style=flat-square&logo=firebase&logoColor=black)
-![reactROuter](https://img.shields.io/badge/React%20Router-%23f54251?style=flat-square&logo=reactrouter&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=000000)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=flat-square&logo=framer&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-ca4245?style=flat-square&logo=reactrouter&logoColor=white)
 
 ---
 
@@ -58,7 +61,7 @@
 </div>
 -->
 <div align="center">
-  <table>
+<!--   <table>
     <tr>
       <td>
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amin7775&theme=algolia" alt="amin7775" width="100%" />
@@ -67,7 +70,21 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin7775&layout=compact&theme=algolia&&langs_count=5" width="100%"/>
       </td>
     </tr>
+  </table> -->
+  <table>
+    <tr>
+      <td>
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amin7775&show_icons=true&locale=en" alt="Amin7775" /></p>
+      </td>
+    <td>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amin7775&" alt="Amin7775" /></p>
+    </td>
+    </tr>
+  
   </table>
+  
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amin7775&show_icons=true&locale=en&layout=compact" alt="Amin7775" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amin7775" alt="Amin7775" /></a></p>
 </div>
 
 ---
@@ -85,4 +102,5 @@
 <a href="https://github.com/Amin7775/House-Master-client-side">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amin7775&repo=House-Master-client-side&theme=algolia" />
 </a>
--->
+--><h1>Hi 👋, I'm Al Amin</h1>
+
